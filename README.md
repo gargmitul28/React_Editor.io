@@ -1,6 +1,8 @@
 # Editor.io
 ## https://stunning-caramel-67972d.netlify.app/
 
+![Screenshot 1](https://user-images.githubusercontent.com/68656122/167346138-6d7fcc64-0ea7-473e-ae09-28fd9cdc1743.png)
+
 Online code editor for HTML, CSS and Javascript to discover frontend code
 
 ### Features:
