@@ -5,6 +5,8 @@
 
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
+![Screenshot 2](https://user-images.githubusercontent.com/68656122/167561859-63713e93-8951-43ec-bf23-4f577414270d.png)
+
 ### Features:
 
 - No installation, work online and build web pages.
