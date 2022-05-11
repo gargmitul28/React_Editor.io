@@ -15,6 +15,8 @@
 - Autoclose of tags and brackets
 - Live Preview
 
+## Online Markdown editor for generating Readme Files
+
 ## Features
 
 - GFM
